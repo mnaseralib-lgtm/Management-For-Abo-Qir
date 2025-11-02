@@ -1,0 +1,5 @@
+{
+  "name": "Smart Attendance Dashboard",
+  "description": "A comprehensive admin dashboard to manage employee attendance data. It provides daily, employee-specific, and date-range reports, along with tools for employee management and manual attendance adjustments. This frontend pairs with the provided Google Apps Script backend.",
+  "requestFramePermissions": []
+}
